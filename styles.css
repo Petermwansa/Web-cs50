@@ -1,0 +1,51 @@
+body {
+
+}
+
+
+.search-box {
+    margin-left: 40%;
+    margin-top: 30px;
+    width: 30%;
+    border-radius: 100%;
+}
+
+.btn-lighter-1 {
+    margin-top: 40px;
+    margin-left: 45%;
+    text-align: center;
+    align-items: center;
+}
+
+.btn-lighter-2 {
+    margin-top: 40px;
+    text-align: center;
+    align-items: center;
+}
+
+.google {
+    margin-top: 200px;
+    margin-left: 45%;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 5rem;
+}
+
+.first {
+    color: #4285F4;
+}
+
+.second {
+    color: #EA4335;
+}
+
+.third {
+    color: #FBBC05
+}
+
+.fourth {
+    color: #34A853;
+}
+
